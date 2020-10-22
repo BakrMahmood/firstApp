@@ -1,0 +1,161 @@
+body{
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    color: lightcoral !important;
+}
+
+.nav-link{
+    font-size: 16px;
+    margin: 15px;
+    
+}
+.nav-link:hover{
+    font-size: 16px;
+    margin: 15px;
+    color: lightcoral !important;
+
+
+
+}
+
+.sitecontent{
+    background-image: url('../img/1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.site-title{
+    margin-top: 30%;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+
+.site-desc{
+    font-size: 14px;
+    padding-left: 20%;
+}
+
+.site-btn1{
+    margin-left: 25%;
+    margin-bottom: 40%;
+}
+.site-btn2{
+    margin-bottom: 40%;
+}
+
+.container-fluid{
+    padding: 0%;
+}
+
+
+/*section one*/
+
+.section-1 .heading-1{
+    margin-top: 30px;
+}
+
+.section-1 .heading-2{
+    margin-bottom: 30px;
+}
+
+.section-1 .part-1{
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: mediumvioletred;
+
+}
+.section-1{
+    margin-bottom: 10%;
+}
+
+
+/*section 2 */
+
+.section-2 .container-fluid{
+    background-image: url('../img/5.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.section-2 .heading-1{
+    margin-top: 14%;
+    margin-bottom: 3%;
+    width: 80%;
+    color: mintcream;
+    background-color: tomato;
+}
+
+.section-2 .part-1{
+    color: whitesmoke;
+    width: 80%;
+    margin-bottom: 3%;
+}
+
+.section-2 .btn{
+    margin-bottom: 12%;
+    width: 30%;
+    padding: 2% 5%;
+}
+
+
+.section-3{
+    margin-top: 4%;
+    margin-bottom: 5%;
+
+}
+
+.section-3 i{
+    color: teal;
+
+}
+
+.section-3 p{
+    color: darkolivegreen;
+}
+
+
+/*section 4*/
+.section-4{
+
+}
+.section-4 .col-md-7 .col-md-5{
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+.section-4 a{
+    font-size: 40px;
+}
+
+.section-4 p{
+    font-family: sans-serif;
+    line-height: 2;
+
+}
+
+.section-4 .col-md-5{
+    background-color: rgba(30, 143, 255, 0.11);
+}
+
+.section-5 {
+    /*background-image: url('../img/4.jpg');
+    background-attachment: fixed;
+    background-size: cover;*/
+
+
+}
+
+.section-5 i{
+    color: rgb(228, 8, 8);
+    font-size: 30px;
+}
